@@ -12,7 +12,7 @@ The original repository and tag is [https://github.com/rachelfheaton/search-mode
 
 #### • removal of attributions to prior work
 
-#### • removal of statements of authors by the original creators of the work
+#### • removal of statements of authorship and credit by the original creators of the work
 
 #### • addition of false claims of credit
 
